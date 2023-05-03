@@ -14,6 +14,8 @@
         <module name="chapter09" />
         <module name="chapter08" />
         <module name="chapter05" />
+        <module name="chapter16" />
+        <module name="chapter17" />
         <module name="chapter04" />
         <module name="chapter15" />
       </profile>

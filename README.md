@@ -1,7 +1,10 @@
 ## 写在前面
 课程地址：https://www.bilibili.com/video/BV1PJ411n7xZ
+
 参考笔记1：https://www.yuque.com/u21195183/jvm
+
 参考笔记2：https://github.com/sxlong0205/JavaBasicKnowledge/tree/main/JVM
+
 参考笔记3：https://imlql.cn/categories/JVM/
 
 首先感谢宋红康老师的课程，受益良多

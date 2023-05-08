@@ -21,7 +21,7 @@ public class StringTest {
 
     }
 
-    public int method1(int num){
-        return 1;
-    }
+//    public int method1(int num){
+//        return 1;
+//    }
 }

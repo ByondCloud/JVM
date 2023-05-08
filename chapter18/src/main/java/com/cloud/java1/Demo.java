@@ -1,10 +1,6 @@
 package com.cloud.java1;
 
 
-
-
-
-
 public class Demo {
     private int num = 1;
 
